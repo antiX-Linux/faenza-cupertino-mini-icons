@@ -1,3 +1,10 @@
+faenza-cupertino-mini-icons (0.1.1) unstable; urgency=low 
+ 
+  * Added 22,24,64,96 and scalable.
+
+ -- anticapitalista <antiX@operamail.com>  Tue, 28 Apr 2015 20:34:00 +0200
+
+
 faenza-cupertino-mini-icons (0.1.0) unstable; urgency=low 
  
   * Initial Release.
